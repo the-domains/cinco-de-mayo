@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cinco de Mayo]]></title>
+        <description><![CDATA[Cinco de Mayo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 17:25:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steak Tacos with Pineapple]]></title>
+            <description><![CDATA[<article><h1>Steak Tacos with Pineapple</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43b1b40683b7adb9540411be936659bb7c3f5480.png"></article>]]></description>
+            <link>undefinedsteak-tacos-with-pineapple/index.html</link>
+            <guid isPermaLink="false">dc8d5afd-2056-4257-9f5b-afe87f2d6d80</guid>
+            <pubDate>Mon, 09 May 2016 17:24:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
