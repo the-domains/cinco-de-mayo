@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-09T17:24:26.685Z'
-dateModified: '2016-05-09T17:24:11.602Z'
+datePublished: '2016-05-09T17:28:27.755Z'
+dateModified: '2016-05-09T17:28:25.887Z'
 title: Steak Tacos with Pineapple
 author: []
+sourcePath: _posts/2016-05-09-steak-tacos-with-pineapple.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-steak-tacos-with-pineapple.md
 url: steak-tacos-with-pineapple/index.html
 _type: Article
 
